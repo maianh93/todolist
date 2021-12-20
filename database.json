@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 6,
+      "title": "Đi ăn",
+      "status": false
+    },
+    {
+      "id": 1,
+      "title": "Làm bài tập Javascript",
+      "status": false
+    },
+    {
+      "id": 7,
+      "title": "Học JS",
+      "status": true
+    },
+    {
+      "id": 2,
+      "title": "Đi ngủ",
+      "status": true
+    }
+  ]
+}
